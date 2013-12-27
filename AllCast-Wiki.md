@@ -39,14 +39,11 @@ Then make sure your Play To feature is turned on in Xbox One Settings. Turn "Pla
 
 ### Google Drive
 
-Long click + Send Link to AllCast
+ 1. Open the Google Drive app and find the file you want to play.
+ 2. Long click file + Send Link to AllCast
 
 ### Dropbox
 
-Long click + Share to AllCast
+ 1. Open the Dropbox app and find the file you want to play.
+ 2. Long click file + Share to AllCast
 
-
-
-Yes, the HTC One (and Nexus 5) has some playback issues to xbox 360. I have the same problem .Xbox 360 DLNA support is lacking :(
-
-I'm looking into workarounds. Apologies.
