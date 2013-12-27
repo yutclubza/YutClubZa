@@ -1,12 +1,12 @@
 ## Devices
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
  * [PlayStation 3](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#ps3)
- * Xbox 360
- * Xbox One
+ * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
+ * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
 
 ## Cloud Playback
- * Google Drive
- * Dropbox
+ * [Google Drive](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#google-drive)
+ * [Dropbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#dropbox)
  
 
 ### Chromecast
@@ -21,6 +21,10 @@ The PS3 can browse DLNA servers (pull files), but it can not be used as a remote
 ### Xbox 360
 
 Then make sure your Play To feature is turned on in [Xbox 360 Settings](http://support.xbox.com/en-US/xbox-360/system/playto-setup). Turn "Play To" off, then back on again if necessary.
+
+#### Xbox 360 Issues
+
+The Xbox 360 does play back videos taken from an HTC One or Nexus 5.
 
 ### Xbox One
 
