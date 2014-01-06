@@ -8,7 +8,19 @@
 * **Some Sony devices** - If you're seeing an issue where Helium is asking for a desktop password, and your device is _not_ encrypted, then you're hitting a known issue with some Sony devices. There is something in the firmware of these devices that prevents Helium from working. 
 * **Asus Transformer** line of devices. Some Transformers have an issue in the firmware that causes a Helium backup or restore process to hang. There is no fix or workaround for devices running stock ROM's.
 
+# Known Problematic Applications (errors during backup/restore)
+
+* All Google apps.
+* Entire Plants V. Zombies Franchise
+* Need for Speed Franchise
+* Candy Crush
+* Simpsons Tapped Out
+* Furby Boom
+
 # Common Helium Desktop Related Issues
+
+## Having to enable a device even though a Premium licence key has been purchased. 
+The issue that you are seeing is not an issue at all. Since you are using a non-root device, you need to enable Helium at every reboot of the device. This is a limitation in Android itself, as it flushes the ADB backup permissions at every boot. Having the premium key doesn't change this fact. 
 
 ## Helium Desktop App Installation Errors and solutions - Windows
 
@@ -45,3 +57,20 @@ You will need to turn down your security settings to install Helium Desktop
 ### Helium Desktop app not recognizing your device
 Try a different USB port and different USB cable with your computer. Also, disable Kies or HTC Sync software. If that doesn't help, try installing Android File Transfer.
 
+# Common Helium On-Device App Issues and Solutions
+
+### Restoring from a cloud location gives an error and "sends a log to ClockworkMod"
+Try logging out then back into the cloud service inside of Helium. To do this, long press the service in the restore and sync side of the app, then logout when the popup appears. After this, go to the backup side of the app and choose ONE app to backup with the cloud service as the destination. Let the backup complete totally then try again.
+
+### App is asking for a "desktop password" (non-Sony device).
+More than likely your device is encrypted, which is what would cause Helium to throw this error. Helium does support encrypted devices. With an encrypted device, it is necessary to put your encryption PIN or password into Helium. To do this, go into the settings menu of the app and then click on device encryption password. In the box that pops up, enter your encryption PIN or password. Then, try your backup again.
+
+### Helium ceases to recognize backups 
+There are a few reasons for this, listed below;
+
+* You manually moved the Carbon backup folder that is located at the root of your device storage. 
+The app stops recognizing backups that are manually moved, as it's an unsupported scenario. There is no workaround or fix for your issue as it is unsupported. In the future, make backups to your PC using the PC Download feature. To backup to your PC, use the PC Download feature found in the settings menu of the app on your device. This will launch a server that you can connect to via a browser on your PC provided that your PC and device are on the same network that you own or control. Upon launching the server, it will give you an IP address that you put into the address bar of the browser on your PC.
+
+* You saved to internal storage than flashed a new ROM onto your device. It is **_never_** advisable to trust internal storage during a flashing session to a new ROM. Always make an off-device backup using PC Download or a cloud location. There is no supported solution to restore backups made to internal storage then flashed over. You can research ADB backup and restore to see if that helps you.
+
+* You made a backup to a removable SD card. Again, not advisable as mounting then re-mounting a physical card between devices is problematic for backups. Use PC Download, a cloud destination or device-to-device sync. 
