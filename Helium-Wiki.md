@@ -1,4 +1,6 @@
-### Helium Support Wiki **_Please note: Helium has never been, nor ever will be, compatible with any device running anything less than Android 4.0_**
+### Helium Support Wiki 
+
+**_Please note: Helium has never been, nor ever will be, compatible with any device running anything less than Android 4.0_**
 
 **Before sending an email to support, please take the time to read through the wiki to search for an answer to your issue.**
 
@@ -74,3 +76,29 @@ The app stops recognizing backups that are manually moved, as it's an unsupporte
 * You saved to internal storage than flashed a new ROM onto your device. It is **_never_** advisable to trust internal storage during a flashing session to a new ROM. Always make an off-device backup using PC Download or a cloud location. There is no supported solution to restore backups made to internal storage then flashed over. You can research ADB backup and restore to see if that helps you.
 
 * You made a backup to a removable SD card. Again, not advisable as mounting then re-mounting a physical card between devices is problematic for backups. Use PC Download, a cloud destination or device-to-device sync. 
+
+### Premium Key not being recognized by the app
+How did you pay for the app? Did you use the Play store? If so the Premium Key will be in your list of purchased apps. Make sure to install the free version first, then install the Key. If you paid through PayPal, you go into the settings menu of the free version and restore your license using your PayPal email that you used to purchase the app.
+
+**_Please note: We do NOT handle any of the Google Play Store transactions. If you have issues with your purchase through Play, you will need to contact Google directly._**
+
+### Device-to-Device Sync Issue
+If you're having issues with device-to-device sync, run through the following list to see if it helps you:
+
+* Make sure both devices are on the same WiFi network that you own and control.
+* Make sure both devices are on and active when attempting the sync.
+* If one device can see the other, but the other device cannot, try pulling an app from the problem device to the device that can see it. Often times this initiates the handshake necessary for file transfer.
+* Make sure that both devices are connected to the same router, and not through any kind of proxy.
+* Turn of any and all security apps that might be running on either device.
+* Make sure you are using only the Primary user on each device. Android does not support the backing up of secondary users files.
+
+### PC Download issues
+If you're having issues with PC Download, please run through the following steps to see if it helps you:
+
+* Turn off any and all security and anti-virus running on your PC or Android device. Many security apps block ports which make it impossible to make a PC Download backup.
+* Use the FireFox browser, we've seen the most success with it.
+* Make sure the device and the PC are on the same physical network that you own and control. You cannot do this at a Starbucks or other public network.
+* If you cannot reach the device, make sure you can ping the IP the device gives from your PC.
+* Make sure the device is on and active during the PC Download backup process. The screen MUST stay live during the backup.
+* Make smaller backup groups, pushing several gigs of data can be difficult for older routers and networks.
+*Be advised, the PC Download process is an "all or nothing" restore process. If you backup 129 apps in one group, you must restore 129 apps using this process. The workaround is to make smaller groups.
