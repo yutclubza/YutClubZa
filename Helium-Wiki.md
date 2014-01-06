@@ -1,4 +1,4 @@
-### Helium Support Wiki
+### Helium Support Wiki **_Please note: Helium has never been, nor ever will be, compatible with any device running anything less than Android 4.0_**
 
 **Before sending an email to support, please take the time to read through the wiki to search for an answer to your issue.**
 
