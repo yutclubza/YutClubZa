@@ -18,6 +18,7 @@
 * Candy Crush
 * Simpsons Tapped Out
 * Furby Boom
+* Subway Surfers
 
 # Common Helium Desktop Related Issues
 
