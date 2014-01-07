@@ -62,6 +62,10 @@ Try a different USB port and different USB cable with your computer. Also, disab
 
 # Common Helium On-Device App Issues and Solutions
 
+### Backing up to your PC via PC Download
+
+To backup to your PC, use the PC Download feature found in the settings menu of the app on your device. This will launch a server that you can connect to via a browser on your PC provided that your PC and device are on the same network that you own or control. Upon launching the server, it will give you an IP address that you put into the address bar of the browser on your PC.
+
 ### Restoring from a cloud location gives an error and "sends a log to ClockworkMod"
 Try logging out then back into the cloud service inside of Helium. To do this, long press the service in the restore and sync side of the app, then logout when the popup appears. After this, go to the backup side of the app and choose ONE app to backup with the cloud service as the destination. Let the backup complete totally then try again.
 
