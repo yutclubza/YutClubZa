@@ -102,4 +102,12 @@ If you're having issues with PC Download, please run through the following steps
 * If you cannot reach the device, make sure you can ping the IP the device gives from your PC.
 * Make sure the device is on and active during the PC Download backup process. The screen MUST stay live during the backup.
 * Make smaller backup groups, pushing several gigs of data can be difficult for older routers and networks.
-*Be advised, the PC Download process is an "all or nothing" restore process. If you backup 129 apps in one group, you must restore 129 apps using this process. The workaround is to make smaller groups.
+* Be advised, the PC Download process is an "all or nothing" restore process. If you backup 129 apps in one group, you must restore 129 apps using this process. The workaround is to make smaller groups.
+
+### Device MTP/PTP Connection Change Issues
+
+To change the mode that your device connects to your PC in, there are some steps you need to take. Please note that some devices are different in how they handle connection status, meaning you will need to do a Google search on how to switch your device from storage mode to camera mode and back. This is an Android issue rather than a Helium issue.
+
+* Connect your device to your PC via USB.
+* In the windowshade of your device, you will have a notification as to what mode you are connected in. Tap that notification.
+* You will be brought to the settings area where you can change the mode from MTP to PTP and back.
