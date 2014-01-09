@@ -21,6 +21,7 @@
 * Simpsons Tapped Out
 * Furby Boom
 * Subway Surfers
+* Smurf Village
 
 # Common Helium Desktop Related Issues
 
