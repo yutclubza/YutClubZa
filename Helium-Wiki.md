@@ -117,3 +117,7 @@ To change the mode that your device connects to your PC in, there are some steps
 * Connect your device to your PC via USB.
 * In the windowshade of your device, you will have a notification as to what mode you are connected in. Tap that notification.
 * You will be brought to the settings area where you can change the mode from MTP to PTP and back.
+
+### Kit-Kat SMS restore procedure
+
+In Kit-Kat, Google has made it that only the default SMS app can write changes to the SMS folder. So to restore messages, Helium has to make itself the default SMS application, write the changes and then switch the default app back. The correct procedure is to allow Helium to become the default SMS app. It will change itself back after restore. 
