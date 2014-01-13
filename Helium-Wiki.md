@@ -22,6 +22,8 @@
 * Furby Boom
 * Subway Surfers
 * Smurf Village
+* Asphalt series
+* Later FIFA games
 
 # Common Helium Desktop Related Issues
 
