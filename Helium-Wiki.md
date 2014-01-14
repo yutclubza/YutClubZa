@@ -35,6 +35,10 @@ The issue that you are seeing is not an issue at all. Since you are using a non-
 ### .DLL missing error
 This error is caused by an elevation issue on your PC. You will need to run the .msi installer file as admin. To do so, right-click the installer and click run as admin. If you don't have that dialog when right-clicking, you will need to do a [Google Search](https://www.google.com/search?q=how+to+run+a+.msi+as+admin+windows&oq=how+to+run+a+.msi+as+admin+windows&aqs=chrome..69i57j0l5.9184j0j7&sourceid=chrome&espv=210&es_sm=122&ie=UTF-8) on how to run a .msi as admin for your version of Windows.
 
+### Windows 8.1 install not working.
+
+This error is caused by an elevation issue on your PC. You will need to run the .msi installer file as admin. To do so, right-click the installer and click run as admin. If you don't have that dialog when right-clicking, you will need to do a [Google Search](https://www.google.com/search?q=how+to+run+a+.msi+as+admin+windows&oq=how+to+run+a+.msi+as+admin+windows&aqs=chrome..69i57j0l5.9184j0j7&sourceid=chrome&espv=210&es_sm=122&ie=UTF-8) on how to run a .msi as admin for your version of Windows.
+
 ### .net 2.0 error
 Some users experience an error telling them to install .net 2.0 on their systems, even though they are running a higher version of the .net framework. The solution to this is to install .net 3.5, as 4.0 does not contain the necessary files for some reason. It will not harm your system to do so. 
 
