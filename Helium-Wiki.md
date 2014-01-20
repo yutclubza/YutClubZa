@@ -4,6 +4,8 @@
 
 **_Also note: Helium is NOT compatible with other backup utilities, nor will ever be._**
 
+**_Helium will NOT backup photos or videos_**
+
 **Before sending an email to support, please take the time to read through the wiki to search for an answer to your issue.**
 
 # Unsupported and Problematic Devices.
