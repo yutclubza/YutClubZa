@@ -73,6 +73,10 @@ Try a different USB port and different USB cable with your computer. Also, disab
 
 # Common Helium On-Device App Issues and Solutions
 
+### Scheduled backups don't complete because of a screen-lock
+
+If you have a screen lock on your device, Helium will not complete a backup. This is expected behavior. The reason for this is the fact that Helium has to open your device and make it active to perform a backup. If you have security in place to prevent the device from opening, Helium is written to respect that. There is no workaround or alternative method. 
+
 ### Backing up to your PC via PC Download
 
 To backup to your PC, use the PC Download feature found in the settings menu of the app on your device. This will launch a server that you can connect to via a browser on your PC provided that your PC and device are on the same network that you own or control. Upon launching the server, it will give you an IP address that you put into the address bar of the browser on your PC.
