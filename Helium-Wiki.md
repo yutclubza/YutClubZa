@@ -6,6 +6,8 @@
 
 **_Helium will NOT backup photos or videos_**
 
+**_Helium will NOT backup MMS messages, only SMS_**
+
 **Before sending an email to support, please take the time to read through the wiki to search for an answer to your issue.**
 
 # Unsupported and Problematic Devices.
