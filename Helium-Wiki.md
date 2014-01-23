@@ -30,6 +30,7 @@
 * Smurf Village
 * Asphalt series
 * Later FIFA games
+* Temple Run Franchise
 
 # Common Helium Desktop Related Issues
 
