@@ -6,6 +6,8 @@
 
 **_Helium will NOT backup photos or videos_**
 
+**_Helium will NOT backup system files, widgets or voicemail (visual or otherwise)_**
+
 **_Helium will NOT backup MMS messages, only SMS_**
 
 **_If you're using a non-root device, you MUST connect to a PC via the USB port of your device to enable ADB backup permissions. HAVING THE PREMIUM KEY WILL NOT REMOVE THIS REQUIREMENT._**
