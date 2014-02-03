@@ -4,6 +4,8 @@
 
 **_Please note: Helium has never been, nor ever will be, compatible with any device running anything less than Android 4.0_**
 
+**_Please note: Helium has never been, nor ever will be, compatible with Chromebooks**
+
 **_Also note: Helium is NOT compatible with other backup utilities, nor will ever be._**
 
 **_Helium will NOT backup photos or videos_**
