@@ -11,7 +11,7 @@
 
 ### Chromecast
 
-Chromecast is not supported yet. It will be supported next year after Google unlocks the Chromecast platform to all developers! I already have it working on my Chromecast, but until the general unlock happens, it won't work on anyone elses. :)
+Chromecast is now supported!
 
 
 ### PS3
