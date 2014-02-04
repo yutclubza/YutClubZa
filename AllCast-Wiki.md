@@ -11,7 +11,9 @@
 
 ### Chromecast
 
-Chromecast is now supported!
+Chromecast is now supported! To be able to stream to Chromecast devices, you must first update the Google Play Services app on your Android device. This sometimes takes a few days to roll out via the Play store for various regions. You can also update Play Services manually by following the directions at this link: http://www.androidpolice.com/2014/02/03/apk-teardown-download-google-play-services-4-2-refines-play-games-adds-cast-api-signs-of-auth-enhancements/
+
+If you experience issues detecting your Chrome Cast even after updating your Play Services, please unplug the Chrome Cast from it's slot then plug it back in. We have seen this force an update that will allow you to detect the device. 
 
 
 ### PS3
