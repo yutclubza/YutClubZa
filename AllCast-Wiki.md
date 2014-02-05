@@ -8,6 +8,8 @@
  * [Google Drive](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#google-drive)
  * [Dropbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#dropbox)
  
+## Codec issues
+AllCast itself does not transcoding. If the device you are streaming to does not support the file format of the source media, it will not play. If you are having issues, please do a Google search on the device you are trying to stream to on what codecs it supports. 
 
 ### Chromecast
 
