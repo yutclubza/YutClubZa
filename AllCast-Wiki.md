@@ -20,6 +20,10 @@ Chromecast is now supported! To be able to stream to Chromecast devices, you mus
 
 If you experience issues detecting your Chrome Cast even after updating your Play Services, please unplug the Chrome Cast from it's slot then plug it back in. We have seen this force an update that will allow you to detect the device. 
 
+### Roku
+Please be aware that AllCast can only stream to Roku devices that are capable of this functionality. Older Roku's do not support the feature. The best way to find out if your device is supported is to download the free Roku app, and try to stream from it to your Roku device. If it can do so, then AllCast will work, if it will not, then AllCast cannot either.
+
+If you're having difficulty finding your Roku through AllCast, make sure to reboot the Roku as well as the device, also make sure that both devices are on the same network that you own and control. Lastly, reboot the router if you continue to have trouble. 
 
 ### PS3
 PS3 is a DLNA browser, not a DLNA renderer. A DLNA renderer is necessary here, unfortunately.
