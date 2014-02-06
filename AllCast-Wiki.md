@@ -8,6 +8,9 @@
  * [Google Drive](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#google-drive)
  * [Dropbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#dropbox)
  
+## Images and video turned sideways on your destination screen.
+When you take images and video in portrait mode, it's like holding a camera sideways. The media is recorded and then rotated by your device so you can see it. However, the media is still shot sideways. When you stream to your TV or other device, the media is going to show up sideways since it was taken in that way. There is no way to rotate through AllCast. The solution is to stop taking images and video sideways, or to put the media into an editor that can rotate the media and save it in landscape mode. 
+
 ## Codec issues
 AllCast itself does not perform transcoding. If the device you are streaming to does not support the file format of the source media, it will not play. If you are having issues, please do a Google search on the device you are trying to stream to on what codecs it supports. 
 
