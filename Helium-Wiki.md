@@ -10,7 +10,7 @@
 
 **_Helium will NOT backup photos or videos_**
 
-**_Helium will NOT backup system files, widgets or voicemail (visual or otherwise)_**
+**_Helium will NOT backup system files, widgets or voicemail (visual or otherwise), nor will it backup device specific apps like s-note or s-memo_**
 
 **_Helium will NOT backup MMS messages, only SMS_**
 
