@@ -40,6 +40,7 @@ If you find that Helium *does* work on your Motorola Android, please notify me.
 * Asphalt series
 * Later FIFA games
 * Temple Run Franchise
+* Need for Speed Franchise
 
 # Common Helium Desktop Related Issues
 
