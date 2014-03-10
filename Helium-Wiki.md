@@ -1,5 +1,7 @@
 ### Helium Support Wiki 
 
+Since the Kit-Kat upgrade, some devices will not allow you to backup to the external SD card. There is no fix for this. SD card backups are not a supported scenario in Helium.
+
 **_We do not offer refunds because there is free version to try before you buy._**
 
 **_Please note: Helium has never been, nor ever will be, compatible with any device running anything less than Android 4.0_**
