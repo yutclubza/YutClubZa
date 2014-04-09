@@ -32,6 +32,7 @@ If you find that Helium *does* work on your Motorola Android, please notify me.
 # Known Problematic Applications (errors during backup/restore)
 
 * All Google apps.
+* Injustice: Gods Among Us
 * Entire Plants V. Zombies Franchise
 * Need for Speed Franchise
 * Candy Crush
