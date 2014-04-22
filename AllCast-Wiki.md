@@ -54,14 +54,3 @@ First, make sure you have the following apps installed:
 
 Then make sure your Play To feature is turned on in Xbox One Settings. Turn "Play To" off, then back on again if necessary.
 
-
-### Google Drive
-
- 1. Open the Google Drive app and find the file you want to play.
- 2. Long click file + Send Link to AllCast
-
-### Dropbox
-
- 1. Open the Dropbox app and find the file you want to play.
- 2. Long click file + Share to AllCast
-
