@@ -4,10 +4,6 @@
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
 
-## Cloud Playback
- * [Google Drive](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#google-drive)
- * [Dropbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#dropbox)
-
 ## Subtitle Support
 Subtitle support has been added to AllCast. To ensure the app picks up you subtitle file, make sure the file is in the same folder location as the video you are trying to cast, and has the EXACT same title as said video. IE you want to cast avengers.*, your subtitle file needs to be titles avengers as well. 
  
