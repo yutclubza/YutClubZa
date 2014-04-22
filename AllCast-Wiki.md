@@ -42,7 +42,7 @@ Then make sure your Play To feature is turned on in [Xbox 360 Settings](http://s
 
 #### Xbox 360 Issues
 
-The Xbox 360 does play back videos taken from an HTC One or Nexus 5.
+The Xbox 360 does not play back videos taken from an HTC One or Nexus 5.
 
 ### Xbox One
 
