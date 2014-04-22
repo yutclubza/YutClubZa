@@ -38,7 +38,7 @@ http://superuser.com/questions/502989/getting-play-to-working-on-windows-8-and-a
 
 ### Xbox 360
 
-Then make sure your Play To feature is turned on in [Xbox 360 Settings](http://support.xbox.com/en-US/xbox-360/system/playto-setup). Turn "Play To" off, then back on again if necessary.
+Then make sure your Play To feature is turned on in [Xbox 360 Settings](http://support.xbox.com/en-US/xbox-360/system/playto-setup). Turn "Play To" off, then back on again if necessary. Also, turn on the DLNA proxy button in the HLS settings in the top right hand corner of the app after selecting the 360 as your destination. 
 
 #### Xbox 360 Issues
 
