@@ -5,7 +5,7 @@
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
 
 ## Subtitle Support
-Subtitle support has been added to AllCast. To ensure the app picks up you subtitle file, make sure the file is in the same folder location as the video you are trying to cast, and has the EXACT same title as said video. IE you want to cast avengers.*, your subtitle file needs to be titles avengers as well. 
+Subtitle support has been added to AllCast. To ensure the app picks up you subtitle file, make sure the file is in the same folder location as the video you are trying to cast, and has the EXACT same title as said video. IE you want to cast avengers.*, your subtitle file needs to be titled avengers as well. 
  
 ## Images and video turned sideways on your destination screen.
 When you take images and video in portrait mode, it's like holding a camera sideways. The media is recorded and then rotated by your device so you can see it. However, the media is still shot sideways. When you stream to your TV or other device, the media is going to show up sideways since it was taken in that way. There is no way to rotate through AllCast. The solution is to stop taking images and video sideways, or to put the media into an editor that can rotate the media and save it in landscape mode. 
