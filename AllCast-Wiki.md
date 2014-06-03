@@ -4,12 +4,21 @@
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
 
+## General Troubleshooting steps. 
+If you're experiencing issues when using AllCast, follow these few simple steps to see if they will help you before contacting us at support. 
 
-##DLNA Support
+1. Reboot your device, casting location and your wireless router.
+2. Make sure you have no network bottlenecks, such as other devices, that might be slowing your network down.
+3. If you have multiple routers on your network, make sure that your Android device and casting destination are connected to the same one. 
+4. If your file that you're having trouble casting is located in the cloud, try bringing it to local storage to see if it casts successfully. Let us know at support if it does. It both locations fail, try bringing the file to a local computer or other media player to see if it will successfully play. 
+
+## Windows DLNA Support
 
 ### Files shared on a Windows-based machine. 
 Make sure that the network that the computer is connected to is set to a home network. We have included a screenshot to demonstrate what we mean.
 <img src="http://i.imgur.com/xNsYGpZ.png" title="Hosted by imgur.com" />
+
+
 ## Subtitle Support
 Subtitle support has been added to AllCast. To ensure the app picks up you subtitle file, make sure the file is in the same folder location as the video you are trying to cast, and has the EXACT same title as said video. IE you want to cast avengers.*, your subtitle file needs to be titled avengers as well. 
  
