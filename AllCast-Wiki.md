@@ -5,6 +5,10 @@
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
  * [Apple TV] (https://github.com/koush/support-wiki/wiki/AllCast-Wiki#apple-tv)
 
+##Refunds
+We do not offer refunds, as there is a try before you buy version that lets you test streaming for 5-minutes. Please do not purchase the app if you're having issues, buying premium will not magically make it work. 
+
+
 ##Premium License issues.
 If you're having trouble installing the premium license for allcast, or having trouble getting the trial version to recognize the premium license follow these steps.
 
