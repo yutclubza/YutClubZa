@@ -4,6 +4,12 @@
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
 
+
+##DLNA Support
+
+### Files shared on a Windows-based machine. 
+Make sure that the network that the computer is connected to is set to a home network. We have included a screenshot to demonstrate what we mean.
+![](http://imgur.com/xNsYGpZ)
 ## Subtitle Support
 Subtitle support has been added to AllCast. To ensure the app picks up you subtitle file, make sure the file is in the same folder location as the video you are trying to cast, and has the EXACT same title as said video. IE you want to cast avengers.*, your subtitle file needs to be titled avengers as well. 
  
