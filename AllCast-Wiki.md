@@ -3,7 +3,7 @@
  * [PlayStation 3](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#ps3)
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
- * [Apple TV] (https://github.com/koush/support-wiki/wiki/AllCast-Wiki#Apple-TV)
+ * [Apple TV] (https://github.com/koush/support-wiki/wiki/AllCast-Wiki#apple-tv)
 
 ##Premium License issues.
 If you're having trouble installing the premium license for allcast, or having trouble getting the trial version to recognize the premium license follow these steps.
