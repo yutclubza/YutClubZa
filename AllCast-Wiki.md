@@ -3,6 +3,18 @@
  * [PlayStation 3](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#ps3)
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
  * [Xbox One](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-one)
+ * [Apple TV] (https://github.com/koush/support-wiki/wiki/AllCast-Wiki#Apple-TV)
+
+##Premium License issues.
+If you're having trouble installing the premium license for allcast, or having trouble getting the trial version to recognize the premium license follow these steps.
+
+1.Uninstall the premium key from your device.
+2. Reboot your device.
+3. Go to a computer and go to the Play store web portal, and go to your list of purchased apps.
+4. Navigate to the premium key in your list of purchased apps.
+5. Push an install of the premium key to your device through the web portal.
+
+This should resolve the issue. 
 
 ## General Troubleshooting steps. 
 If you're experiencing issues when using AllCast, follow these few simple steps to see if they will help you before contacting us at support. 
@@ -30,7 +42,12 @@ While the Chromecast does support the .MKV container, it doesn't support the wid
 
 ### Chromecast
 
-If you experience issues detecting your Chrome Cast even after updating your Play Services, please unplug the Chrome Cast from it's slot then plug it back in. We have seen this force an update that will allow you to detect the device. 
+### Device detection issues.
+If you are having difficulty detecting your chromecast, reboot it by unplugging from power and plugging it back in. If this still does not work, hold the reset button on the device for 30 seconds to factory reset and go back through the setup with the chromecast app.
+
+Lastly, if you have a multi-band router, disable the 5ghz band as Chromecast sometimes hates to see two different signaled networks. Also, go into the settings of your router to turn off any multi-cast filtering that might be in place.
+
+If your router is old (more than two years) it may not be compatible with Chromecast and streaming. Consider upgrading to a newer device. 
 
 ### Roku
 Please be aware that AllCast can only stream to Roku devices that are capable of this functionality. Older Roku's do not support the feature. The best way to find out if your device is supported is to download the free Roku app, and try to stream from it to your Roku device. If it can do so, then AllCast will work, if it will not, then AllCast cannot either.
