@@ -20,7 +20,10 @@ If you're having trouble installing the premium license for allcast, or having t
 
 This should resolve the issue. 
 
-## General Troubleshooting steps. 
+## Stop Casting
+When casting a file, there is a stop button that appears over the file. When you want cease casting, press that button, and the casting should stop.
+
+## General Troubleshooting steps (Can't discover destination, choppy playback etc.)
 If you're experiencing issues when using AllCast, follow these few simple steps to see if they will help you before contacting us at support. 
 
 1. Reboot your device, casting location and your wireless router.
