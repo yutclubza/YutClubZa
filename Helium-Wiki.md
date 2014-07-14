@@ -97,7 +97,11 @@ If you have a screen lock on your device, Helium will not complete a backup. Thi
 
 ### Backing up to your PC via PC Download
 
-To backup to your PC, use the PC Download feature found in the settings menu of the app on your device. This will launch a server that you can connect to via a browser on your PC provided that your PC and device are on the same network that you own or control. Upon launching the server, it will give you an IP address that you put into the address bar of the browser on your PC.
+To backup to your PC, use the PC Download feature found in the settings menu of the app on your device. This will launch a server that you can connect to via a browser on your PC provided that your PC and device are on the same network that you own or control. Upon launching the server, it will give you an IP address that you put into the address bar of the browser on your PC. Once you put the IP address into the browser, you will get on screen instructions on how to backup. Once your backup is complete, you will receive a backup.zip file. DO NOT EXPAND THIS FILE. Keep it intact. You will need this zip intact to restore the data. Please note, PC Download is an all or nothing process. Meaning it backs up everything that you tell it to. You cannot restore individual apps in a PC Download backup. The workaround is to make groups of apps to backup, then to rename the zip file so you can keep multiple backups. 
+
+### Restoring a PC Download backup
+
+To restore a PC Download backup, first initiate a PC Download session as described above. Then, when you have connected to your device simply take the backup.zip file you received in the process above and drag and drop it into the window to start the restore process. Please note, the device has to be and active for the process to complete. Any browser should work, but if you have issues please try using Firefox then Chrome in that order. 
 
 ### Restoring from a cloud location gives an error and "sends a log to ClockworkMod"
 Try logging out then back into the cloud service inside of Helium. To do this, long press the service in the restore and sync side of the app, then logout when the popup appears. After this, go to the backup side of the app and choose ONE app to backup with the cloud service as the destination. Let the backup complete totally then try again.
