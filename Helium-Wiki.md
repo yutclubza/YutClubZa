@@ -72,7 +72,7 @@ Make sure you have ALL software and drivers for your device uninstalled includin
 * Check your Windows device manager to ensure that there are no driver issues. If there is a yellow triangle by your device, then there is a driver issue that you need to address.
 * Try a different USB port and USB cable. USB cables do indeed go bad.
 
-### For LG G2 devices only
+### For LG G2 AND G3 devices only
 
 If you're having difficulty getting the Helium desktop to recognize your device, please follow the steps below.
 
