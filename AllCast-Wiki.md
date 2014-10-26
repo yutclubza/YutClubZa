@@ -87,6 +87,8 @@ First, make sure you have the following apps installed:
 
 Then make sure your Play To feature is turned on in Xbox One Settings. Turn "Play To" off, then back on again if necessary.
 
+You *can not* be playing a game while attempting to use AllCast. The Xbox One will not be detected. Quit the game by returning the the dashboard, pressing the menu button, and Quitting it.
+
 ### Apple-TV
 
 If you are having trouble casting to your Apple TV, first check if there is a sharing password. If so, remove it and try again. Also, try rebooting the device as well. 
