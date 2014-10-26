@@ -12,11 +12,11 @@ We do not offer refunds, as there is a try before you buy version that lets you 
 ##Premium License issues.
 If you're having trouble installing the premium license for allcast, or having trouble getting the trial version to recognize the premium license follow these steps.
 
-1.Uninstall the premium key from your device.
-2. Reboot your device.
-3. Go to a computer and go to the Play store web portal, and go to your list of purchased apps.
-4. Navigate to the premium key in your list of purchased apps.
-5. Push an install of the premium key to your device through the web portal.
+ 1. install the premium key from your device.
+ 2. Reboot your device.
+ 3. Go to a computer and go to the Play store web portal, and go to your list of purchased apps.
+ 4. Navigate to the premium key in your list of purchased apps.
+ 5. Push an install of the premium key to your device through the web portal.
 
 This should resolve the issue. 
 
