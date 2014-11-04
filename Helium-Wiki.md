@@ -16,7 +16,7 @@
 
 **_Helium will NOT backup MMS messages, only SMS_**
 
-**_If you're using a non-root device, you MUST connect to a PC via the USB port of your device to enable ADB backup permissions. HAVING THE PREMIUM KEY WILL NOT REMOVE THIS REQUIREMENT._**
+**_If you're using a non-root device, you MUST connect to a PC via the USB port of your device to enable ADB backup permissions. HAVING THE PREMIUM KEY WILL NOT REMOVE THIS REQUIREMENT. This will be necessary at every reboot of the device._**
 
 **Before sending an email to support, please take the time to read through the wiki to search for an answer to your issue.**
 
