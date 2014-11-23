@@ -25,6 +25,9 @@
 * **Any Motorola device** - Helium is NOT available to Motorola devices. This is because Motorola phones have a bug that break Android's backup mechanism. Until this is fixed by Motorola, Helium will not work on those Androids. You can download Helium manually here:
 http://download.clockworkmod.com/apks/Backup.apk
 If you find that Helium *does* work on your Motorola Android, please notify me.
+
+Update: Helium is working on the [Motorola Droid Turbo](http://forum.xda-developers.com/showpost.php?p=56954372&postcount=8).
+
 * **Some Sony devices** - If you're seeing an issue where Helium is asking for a desktop password, and your device is _not_ encrypted, then you're hitting a known issue with some Sony devices. There is something in the firmware of these devices that prevents Helium from working. This includes the Xperia S and Xperia Z. Sony has *disabled* backup on these devices completely.
 * **Asus Transformer** line of devices. All Transformers have an issue in the firmware that causes a Helium backup or restore process to hang. There is no fix or workaround for devices running stock ROM's.
 * **Asus Memopad Devices** * A similar issue to the Transformer line of devices. 
