@@ -1,5 +1,29 @@
 ## AllCast Changelog ##
 
+### 1.1.6.1 12/2/2014
+
+ - Further improved UX
+ - Recognize additional video types (mov, 3gp)
+ - Improved high megapixel image casting performance across the board
+ - Fix Lollipop crashes when casting a photo
+ - New changelog!
+ - New follow button!
+
+### 1.1.6.0 11/26/2014
+
+Fix tablet crash
+
+### 1.1.5.9 11/25/2014
+
+Improved music UX
+
+### 1.1.5.8 11/24/2014
+
+Fix DLNA crashes
+
+### 1.1.5.7 11/23/2014
+
+Fix Amazon IAP related issues.
 
 ### 1.1.4.4 10/17/2014
 Crash fixes for Android Lollipop! If you're running the Android Lollipop preview, please make sure you are on the latest version released on October 16th!
