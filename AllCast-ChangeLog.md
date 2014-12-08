@@ -1,5 +1,10 @@
 ## AllCast Changelog ##
 
+### 1.1.6.2 12/8/2014
+
+ - Refreshed icon thanks to Liam Spradlin
+ - Fix Chromecast volume control crash
+
 ### 1.1.6.1 12/2/2014
 
  - Further improved UX
