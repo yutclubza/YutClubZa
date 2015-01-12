@@ -9,8 +9,8 @@
 We do not offer refunds, as there is a try before you buy version that lets you test streaming for 5-minutes. Please do not purchase the app if you're having issues, buying premium will not magically make it work. 
 
 
-##Premium License issues.
-If you're having trouble installing the premium license for allcast, or having trouble getting the trial version to recognize the premium license follow these steps.
+##Android Premium License issues.
+If you're having trouble installing the premium license for AllCast, or having trouble getting the trial version to recognize the premium license follow these steps.
 
  1. Uninstall the premium key from your device.
  2. Reboot your device.
