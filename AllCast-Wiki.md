@@ -1,5 +1,6 @@
 ## Common Problems
- * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
+ * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
+ * [Showbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
 
 ## Devices
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
