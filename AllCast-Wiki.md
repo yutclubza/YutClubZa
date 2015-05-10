@@ -71,14 +71,14 @@ Lastly, if you have a multi-band router, disable the 5ghz band as Chromecast som
 
 If your router is old (more than two years) it may not be compatible with Chromecast and streaming. Consider upgrading to a newer device. 
 
-Chromecast does not support MKV
+Chromecast does not support MKV.
 
 ### Roku
 Please be aware that AllCast can only stream to Roku devices that are capable of this functionality. Older Roku's do not support the feature. The best way to find out if your device is supported is to download the free Roku app, and try to stream from it to your Roku device. If it can do so, then AllCast will work, if it will not, then AllCast cannot either.
 
 If you're having difficulty finding your Roku through AllCast, make sure to reboot the Roku as well as the device, also make sure that both devices are on the same network that you own and control. Lastly, reboot the router if you continue to have trouble. 
 
-Roku does not support MKV
+Roku does not support MKV.
 
 ### PlayStation
 PlayStation (3 and 4) is a DLNA browser, not a DLNA renderer. A DLNA renderer is necessary here, unfortunately.
@@ -110,4 +110,4 @@ You *can not* be playing a game while attempting to use AllCast. The Xbox One wi
 
 If you are having trouble casting to your Apple TV, first check if there is a sharing password. If so, remove it and try again. Also, try rebooting the device as well. 
 
-Apple TV does not support MKV
+Apple TV does not support MKV.
