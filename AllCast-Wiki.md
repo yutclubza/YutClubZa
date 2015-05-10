@@ -2,6 +2,8 @@
  * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
  * [Premium License Issues](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#android-premium-license-issues)
  * [Showbox App](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#showbox-app)
+ * [Refunds](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#refunds)
+ * [Casting videos from Gallery is slow](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#refunds)
 
 ## Devices
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
@@ -13,9 +15,6 @@
 ##Refunds
 We do not offer refunds, as there is a try before you buy version that lets you test streaming for 5-minutes. Please do not purchase the app if you're having issues, buying premium will not magically make it work. 
 
-## Showbox App
-To cast from Showbox to Allcast, download the [Growbox](https://www.reddit.com/r/showbox/comments/2xeiwi/growbox_a_solution_for_not_being_able_to_cast/) app.
-
 ##Android Premium License issues.
 If you're having trouble installing the premium license for AllCast, or having trouble getting the trial version to recognize the premium license follow these steps.
 
@@ -26,6 +25,16 @@ If you're having trouble installing the premium license for AllCast, or having t
  5. Push an install of the premium key to your device through the web portal.
 
 This should resolve the issue. 
+
+
+## Showbox App
+To cast from Showbox to Allcast, download the [Growbox](https://www.reddit.com/r/showbox/comments/2xeiwi/growbox_a_solution_for_not_being_able_to_cast/) app.
+
+Showbox servers are often very slow. This can not be resolved by AllCast.
+
+## Casting Videos from Gallery is Slow
+
+This is usually due to congestion on your wireless network. To send a lower quality video that uses less wireless bandwidth, go into AllCast Settings and set the bitrate to 600000.
 
 ## Stop Casting
 When casting a file, there is a stop button that appears over the file. When you want cease casting, press that button, and the casting should stop.
