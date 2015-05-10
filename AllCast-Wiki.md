@@ -1,7 +1,7 @@
 ## Common Problems
  * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
- * [Showbox](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
- * [Premium License Issues](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
+ * [Premium License Issues](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#android-premium-license-issues)
+ * [Showbox App](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
 
 ## Devices
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
@@ -13,6 +13,8 @@
 ##Refunds
 We do not offer refunds, as there is a try before you buy version that lets you test streaming for 5-minutes. Please do not purchase the app if you're having issues, buying premium will not magically make it work. 
 
+## Showbox App
+To cast from Showbox to Allcast, download the [Growbox](https://www.reddit.com/r/showbox/comments/2xeiwi/growbox_a_solution_for_not_being_able_to_cast/) app.
 
 ##Android Premium License issues.
 If you're having trouble installing the premium license for AllCast, or having trouble getting the trial version to recognize the premium license follow these steps.
