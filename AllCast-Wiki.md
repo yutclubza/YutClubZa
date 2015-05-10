@@ -1,3 +1,6 @@
+## Common Problems
+ * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
+
 ## Devices
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
  * [PlayStation](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#playstation)
