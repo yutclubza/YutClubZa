@@ -1,6 +1,6 @@
 ## Common Problems
  * [Device Detection](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#device-detection-issues)
- * [Premium License Issues](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#android-premium-license-issues)
+ * [Android Premium License Issues](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#android-premium-license-issues)
  * [Showbox App](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#showbox-app)
  * [Refunds](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#refunds)
  * [Casting videos from Gallery is slow](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#casting-videos-from-gallery-is-slow)
