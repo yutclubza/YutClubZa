@@ -63,9 +63,11 @@ When you take images and video in portrait mode, it's like holding a camera side
 ## Codec issues
 While the Chromecast does support the .MKV container, it doesn't support the wide array of audio codecs that can be present in said container. To work around this, try using the HLS feature found in the top right hand corner of the app after you select a casting destination. It will adjust bit rate and format on the fly. 
 
+### Device detection issues.
+If you are having difficulty detecting your cast device, try rebooting your router, cast device, and phone. This usually resolves the problem.
+
 ### Chromecast
 
-### Device detection issues.
 If you are having difficulty detecting your chromecast, reboot it by unplugging from power and plugging it back in. If this still does not work, hold the reset button on the device for 30 seconds to factory reset and go back through the setup with the chromecast app.
 
 Lastly, if you have a multi-band router, disable the 5ghz band as Chromecast sometimes hates to see two different signaled networks. Also, go into the settings of your router to turn off any multi-cast filtering that might be in place.
