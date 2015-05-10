@@ -5,7 +5,7 @@
  * [Refunds](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#refunds)
  * [Casting videos from Gallery is slow](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#casting-videos-from-gallery-is-slow)
 
-## Devices
+## Common Device Issues
  * [Chromecast](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#chromecast)
  * [PlayStation](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#playstation)
  * [Xbox 360](https://github.com/koush/support-wiki/wiki/AllCast-Wiki#xbox-360)
