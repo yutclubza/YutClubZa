@@ -41,7 +41,6 @@ Update: Helium is working on the [Motorola Droid Turbo](http://forum.xda-develop
 * Candy Crush
 * Simpsons Tapped Out
 * Furby Boom
-* Subway Surfers
 * Smurf Village
 * Asphalt series
 * Later FIFA games
