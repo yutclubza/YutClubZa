@@ -157,4 +157,8 @@ To change the mode that your device connects to your PC in, there are some steps
 
 ### Kit-Kat SMS restore procedure
 
-In Kit-Kat, Google has made it that only the default SMS app can write changes to the SMS folder. So to restore messages, Helium has to make itself the default SMS application, write the changes and then switch the default app back. The correct procedure is to allow Helium to become the default SMS app. It will change itself back after restore. 
+In Kit-Kat, Google has made it that only the default SMS app can write changes to the SMS folder. So to restore messages, Helium has to make itself the default SMS application, write the changes and then switch the default app back. The correct procedure is to allow Helium to become the default SMS app. It will change itself back after restore.
+
+### Misc.
+
+For Linux users, here is an adjusted desktop script that can use 'adb' from standard system locations as well: https://gist.github.com/olesenm/06ee8cdee893c732462a
