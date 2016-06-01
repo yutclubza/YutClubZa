@@ -12,7 +12,7 @@
 
 ## Installation Instructions
 
-1. Install Helium on Android
+1. [Install Helium on Android](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
 2. Install Helium on your PC
 3. Windows Users must also install Android drivers and restart.
 4. Open Helium Desktop on PC
