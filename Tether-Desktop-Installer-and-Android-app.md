@@ -1,4 +1,4 @@
-## Download the appropriate Helium Installer for your PC:
+## Download the appropriate Tether Installer for your PC:
 
 [Windows](http://download.clockworkmod.com/tether/TetherWindowsSetup.msi)
 
