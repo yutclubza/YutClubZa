@@ -1,3 +1,6 @@
+1.8.4
+Update adb binaries
+Fix crash bug related to key events in Android app
 
 1.8.3
 Custom colors on title and nav bar
