@@ -1,3 +1,12 @@
+1.8.7
+Add high quality defaults
+
+1.8.6
+More bitrate options
+
+1.8.5
+Improve latency by dropping dropping frames when canvas can't paint fast enough
+
 1.8.4
 Update adb binaries
 Fix crash bug related to key events in Android app
